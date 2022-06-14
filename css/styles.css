@@ -12,7 +12,7 @@ body{
 }
 
 #logo-img{
-    background:url('../../ChinaBistro.jpeg') no-repeat;
+    background:url('../ChinaBistro.jpeg') no-repeat;
     width:165px;
     height:173px;
     margin:10px, 15px, 10px, 0;
